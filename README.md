@@ -1,4 +1,4 @@
-MintDataExtractor
+Mint.com Data Extractor
 =================
 
 Uses phantomjs to extract data from Mint
